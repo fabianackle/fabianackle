@@ -1,9 +1,14 @@
 ### Hello there!
 I'm Fabian a PhD student in the Seeger Lab at the University of Zurich
+
 🔬 Research focus: Protein trafficking in the early secretory pathway and cargo receptors
+
 🧬 Expertise: Biochemistry, protein engineering, and structural biology
+
 🧪 Interest: NGS, proteomics
+
 📚 [Google Scholar](https://scholar.google.com/citations?hl=de&user=Pt53p9UAAAAJ)
+
 📩 Follow me on Twitter [@f_ackle](https://twitter.com/f_ackle) or write me an email fackle@imm.uzh.ch.
 
 <!--
