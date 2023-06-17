@@ -1,5 +1,5 @@
 ### Hello there!
-I'm Fabian a PhD student in the Seeger Lab at the University of Zurich
+I'm a PhD student in the Seeger Lab at the University of Zurich
 - 🔬 Research focus: Protein trafficking in the early secretory pathway and cargo receptors
 - 🧬 Expertise: Biochemistry, protein engineering, and structural biology
 - 🧪 Interest: NGS, proteomics
