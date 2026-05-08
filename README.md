@@ -1,10 +1,10 @@
 ### Hello there!
-I'm a PhD student in the Seeger Lab at the University of Zurich
+I'm a postdoctoral researcher in the Seeger Lab at the University of Zurich
 - 🔬 Research focus: Protein trafficking in the early secretory pathway and cargo receptors
 - 🧬 Expertise: Biochemistry, protein engineering, and structural biology
 - 🧪 Interest: NGS, proteomics
 - 📚 [Google Scholar Profile](https://scholar.google.com/citations?hl=de&user=Pt53p9UAAAAJ)
-- 📩 Follow me on Twitter [@f_ackle](https://twitter.com/f_ackle), Bluesky [fabianackle.ch](https://bsky.app/profile/fabianackle.ch) or write me an email fackle@imm.uzh.ch.
+- 📩 Follow me on Bluesky [fabianackle.ch](https://bsky.app/profile/fabianackle.ch) or write me an email fackle@imm.uzh.ch.
 
 <!--
 **fabianackle/fabianackle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
